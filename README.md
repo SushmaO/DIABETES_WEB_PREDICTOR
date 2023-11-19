@@ -14,6 +14,6 @@ Django Framework: The application is built on the Django web framework, providin
 
 Requirements
 
-Python 3.x
+Python 3.12
 
-Django (version)
+Django 4.2.6
